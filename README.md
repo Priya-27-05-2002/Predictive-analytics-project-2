@@ -1,7 +1,7 @@
 Student Performance Prediction and Early Intervention
 
 Team Members :
-Uma parvathy 
+Uma parvathy C.S
 Lanka Priya
 Shiha Shajahan
 Problem Statement
