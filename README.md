@@ -4,7 +4,7 @@ Team Members :
 Uma parvathy C.S
 Lanka Priya
 Shiha Shajahan
-Problem Statement
+Problem Statement :
 Schools need a way to identify at-risk students early in the semester to provide counseling and academic support. This project aims to predict whether a student will pass or fail a course based on demographics, study habits, and attendance, allowing for timely intervention.
 Project Architecture
 The project follows a highly modular, professional layout:
