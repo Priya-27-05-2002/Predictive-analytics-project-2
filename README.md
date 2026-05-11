@@ -23,6 +23,6 @@ Source: UCI Machine Learning Repository (Student Performance Dataset)
 Target: Target_Pass  (Binary: 1 if Final Grade >= 10, else 0)
 
 Streamlit
-
+https://predictive-analytics-2.streamlit.app/
 
 
