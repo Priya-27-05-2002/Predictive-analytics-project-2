@@ -54,7 +54,26 @@ The project is deployed using **Streamlit**:
 - Model training with hyperparameter tuning  
 - Model evaluation using metrics (accuracy, precision, recall, F1-score)  
 - Explainability with **LIME**  
-- Interactive **Streamlit app** for predictions  
+- Interactive **Streamlit app** for predictions
+  ## 🛠️ How to Run Locally
+
+Follow these three simple steps to set up and run the project on your machine:
+
+### 1️. Clone the repository
+```bash
+git clone https://github.com/Priya-27-05-2002/Predictive-analytics-project-2.git
+cd Predictive-analytics-project-2
+```
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+
+```
+### 3. Run the Streamlit app
+```bash
+streamlit run src/app.py
+```
+
 
 ---
 
