@@ -15,12 +15,13 @@ This project aims to **predict whether a student will pass or fail a course** ba
 
 ## 🏗️ Project Architecture
 The project follows a modular and professional layout:
-```
+
+```bash
 ├── data
 │   └── student_performance.csv
 ├── models
 │   ├── best_model.pkl
-│   ├── preprocessor.pkl
+│   └── preprocessor.pkl
 │   └── LIME explanations
 ├── notebooks
 │   └── 01_class_distribution.png
@@ -32,6 +33,7 @@ The project follows a modular and professional layout:
 │   ├── app.py                  # Streamlit application
 │   └── student_performance.py  # Main pipeline script
 ```
+
 
 ---
 
