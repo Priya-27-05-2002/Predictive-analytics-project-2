@@ -15,6 +15,7 @@ This project aims to **predict whether a student will pass or fail a course** ba
 
 ## 🏗️ Project Architecture
 The project follows a modular and professional layout:
+```
 ├── data
 │   └── student_performance.csv
 ├── models
@@ -30,7 +31,7 @@ The project follows a modular and professional layout:
 │   ├── utils.py                # Helper functions
 │   ├── app.py                  # Streamlit application
 │   └── student_performance.py  # Main pipeline script
-
+```
 
 ---
 
