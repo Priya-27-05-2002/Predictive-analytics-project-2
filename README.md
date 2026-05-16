@@ -45,7 +45,7 @@ The project follows a modular and professional layout:
 ## 🚀 Deployment
 The project is deployed using **Streamlit**:  
 👉 [Live Demo](https://predictive-analytics-2.streamlit.app/)
-
+    https://predictive-analytics-2.streamlit.app/
 ---
 
 ## ⚙️ Features
